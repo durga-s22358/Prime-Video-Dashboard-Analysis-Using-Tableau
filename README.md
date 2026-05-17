@@ -51,7 +51,7 @@ This project presents an **interactive Tableau dashboard** that analyzes Prime V
 
 ## 🔹 Dashboard Preview
 
-![Dashboard Screenshot](your-image-file.png)
+Dashboard Screenshot 
 
 ---
 
